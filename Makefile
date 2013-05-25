@@ -1,6 +1,6 @@
 VERSION = 3
 PATCHLEVEL = 4
-SUBLEVEL = 5
+SUBLEVEL = 6
 EXTRAVERSION =_Zeus_Kernel
 NAME = Saber-toothed Squirrel
 
