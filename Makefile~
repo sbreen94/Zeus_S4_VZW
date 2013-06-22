@@ -1,12 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
-<<<<<<< HEAD
-SUBLEVEL = 4
-EXTRAVERSION =_Zeus_Kernel
-=======
-SUBLEVEL = 5
-EXTRAVERSION =
->>>>>>> 6154e05... Linux 3.4.5
+SUBLEVEL = 40
+EXTRAVERSION =_Zeus_Kernel_RLS1_
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
