@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 8
-EXTRAVERSION =_Zeus_Kernel
+EXTRAVERSION =_Zeus_Kernel_RLS1_
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
